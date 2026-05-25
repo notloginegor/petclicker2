@@ -1,2 +1,11 @@
-Oblivion:100,The Forgotten;20,Skeleton;5,Zombie;1,Bone
-Big:10000,Big Gem Corgi;50,Big Corgi;1,Sparkle Gem Corgi
+Oblivion:0:0:100,The Forgotten;20,Skeleton;5,Zombie;1,Bone
+Big:0:0:10000,Big Gem Corgi;50,Big Corgi;1,Sparkle Gem Corgi
+Spring 2:1000000:100:5000,Giant Clover Cat;750,Big Rabbit;20,Rabbit;1,Egg Axolotl
+Spring:100000:10:10000,Big Rabbit;100,Rabbit;20,Egg Axolotl;1,Flower Corgi
+Halloween:10000:5:5000,Big Pumpkin;100,Sparkle Pumpkin;20,Torch;1,Pumpkin
+Gem:100:0:5000,Big Gem Corgi;50,Sparkle Gem Corgi;1,Gem Corgi:gems
+5:10000:7:100,Golden Dog;10,Golden Cat;1,Golden Corgi
+4:2000:5:50,Oasis;10,Cactus;1,Sand
+3:750:3:20,Sparkle Axolotl;7,Sparkle Corgi;1,Sparkle Cat
+2:300:2:20,Sparkle Cat;5,Axolotl;1,Corgi
+1:50:0:10,Axolotl;3,Corgi;1,Cat
