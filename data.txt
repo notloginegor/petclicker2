@@ -1,1 +1,1 @@
-event:spring2:2026:05:31
+event:summer:2026:07:31
