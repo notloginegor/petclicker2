@@ -1,7 +1,7 @@
 pet:Big Wheel,2000
 item:World Cup token:250,250
 gem:5000,250
-coin:500000000",250
+coin:500000000,250
 pet:Spinner,100
 gem:1500,100
 coin:50000000,100
@@ -20,4 +20,3 @@ item:World Cup token:10,3
 coin:500000,3
 item:World Cup token:5,2
 item:Wooden scrap:1,1
-   
